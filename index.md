@@ -4,35 +4,22 @@ Founded in 2019 over a small dispute with the Durham University Speleological As
 
 ### Membership benefits
 
-1. Exclusive to the members chat on Facebook
-2. Access to 430m of Beal's gold
-3. Free lodging with affiliated member clubs* and at SRT Union HQ in Chelsea
-4. 
+1. Exclusive to the members chat on Facebook.
+2. Access to 430m of Beal's gold.
+3. Free lodging with affiliated member clubs* and at SRT Union Chelsea.
+4. A judge-free faffing zone before, after and during trips.
+5. Sausage rolls and full fat Coke on every trip.
 
-```markdown
-Syntax highlighted code block
+### How to join
 
-# Header 1
-## Header 2
-### Header 3
+1. Be invited by an existing member.
+2. Have caved for a minimum of 100 furlongs.
+3. Know the difference between Dolly Tubs and Marble Showers.
+4. Be on first name terms with Tony.
+5. Could ascend the brewery shaft in under 8:03 minutes.
 
-- Bulleted
-- List
+### Sounds good?
 
-1. Numbered
-2. List
+Contact us [here](mailto:speleological.association@durham.ac.uk)
+or visit our website for more information
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SRT-Union/members-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
