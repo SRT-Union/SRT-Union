@@ -23,3 +23,5 @@ Founded in 2019 over a small dispute with the Durham University Speleological As
 Contact us [here](mailto:speleological.association@durham.ac.uk)
 or visit our website for more information
 
+
+<sub> *affiliated member clubs include: DOSA </sub>
