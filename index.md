@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to the SRT Union website
 
-You can use the [editor on GitHub](https://github.com/SRT-Union/members-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Founded in 2019 over a small dispute with the Durham University Speleological Associate Executive Committee. This union was set up as a way of expressing distate for horizontal plebibity in caving. Since then, our membership has been steady and we are always on the lookout for other SpeleoPros™ to join our ranks. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Membership benefits
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Exclusive to the members chat on Facebook
+2. Access to 430m of Beal's gold
+3. Free lodging with affiliated member clubs* and at SRT Union HQ in Chelsea
+4. 
 
 ```markdown
 Syntax highlighted code block
