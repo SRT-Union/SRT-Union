@@ -1,12 +1,12 @@
 ## Welcome to the SRT Union website
 
-Founded in 2019 over a small dispute with the Durham University Speleological Associate Executive Committee. This union was set up as a way of expressing distate for horizontal plebibity in caving. Since then, our membership has been steady and we are always on the lookout for other SpeleoPros™ to join our ranks. 
+Founded in 2019 over a small dispute with the Durham University Speleological Association Executive Committee. This union was set up as a way of expressing distate for horizontal plebibity in caving. Since then, our membership has been steady and we are always on the lookout for other SpeleoPros™ to join our ranks. 
 
 ### Membership benefits
 
-1. Exclusive to the members chat on Facebook.
+1. Exclusive access to the members chat on Facebook.
 2. Access to 430m of Beal's gold.
-3. Free lodging with affiliated member clubs* and at SRT Union Chelsea.
+3. Free lodging with affiliated member clubs* and at [SRT Union Chelsea](https://goo.gl/maps/RVraMXzdroj6HMRD6).
 4. A judge-free faffing zone before, after and during trips.
 5. Sausage rolls and full fat Coke on every trip.
 
