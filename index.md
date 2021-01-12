@@ -25,3 +25,5 @@ or visit our website for more information
 
 
 <sub> *affiliated member clubs include: DOSA </sub>
+
+Checkout our sweet ass utube: https://www.youtube.com/watch?v=MgDEYk7ds3E
