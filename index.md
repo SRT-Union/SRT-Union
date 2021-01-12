@@ -1,6 +1,6 @@
 ## Welcome to the SRT Union website
 
-Founded in 2019 over a small dispute with the Durham University Speleological Association Executive Committee. This union was set up as a way of expressing distate for horizontal plebibity in caving. Since then, our membership has been steady and we are always on the lookout for other SpeleoPros™ to join our ranks. 
+Founded in 2019 over a small dispute with the Durham University Speleological Association Executive Committee. This union was set up as a way of expressing distaste for horizontal plebibity in caving. Since then, our membership has been steady and we are always on the lookout for other SpeleoPros™ to join our ranks. 
 
 ### Membership benefits
 
