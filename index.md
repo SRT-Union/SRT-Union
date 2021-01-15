@@ -21,9 +21,8 @@ Founded in 2019 over a small dispute with the Durham University Speleological As
 ### Sounds good?
 
 Contact us [here](mailto:srtu.committee@gmail.com)
-or visit our website for more information
 
 
 <sub> *affiliated member clubs include: DOSA </sub>
 
-Check out our sweet ass utube: https://www.youtube.com/watch?v=MgDEYk7ds3E
+Check out our sweet ass [utube](https://www.youtube.com/watch?v=MgDEYk7ds3E
