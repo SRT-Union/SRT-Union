@@ -25,4 +25,4 @@ Contact us [here](mailto:srtu.committee@gmail.com)
 
 <sub> *affiliated member clubs include: DOSA </sub>
 
-Check out our sweet ass [utube](https://www.youtube.com/watch?v=MgDEYk7ds3E
+Check out our sweet ass [utube](https://www.youtube.com/watch?v=MgDEYk7ds3E)
